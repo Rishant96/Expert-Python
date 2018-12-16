@@ -106,4 +106,3 @@ def psychologist():
                 print("Ahh that's good, go on")
             elif 'bad' in answer:
                 print("Don't be so negative")
-
