@@ -1,4 +1,4 @@
-class DoughFactory:
+class DoughFactory(object):
 
     def get_dough(self):
         return "insecticide treated wheat dough"
