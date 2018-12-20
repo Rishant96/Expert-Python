@@ -11,7 +11,7 @@ class MyClass:
         1. __set__(self, obj, type=None): 'setter'
         2. __get__(self, obj, value): 'getter'
         3. __delete__(self, obj): called when 'del' is invoked
-                                 on the attribute.
+                                  on the attribute.
 
     * A descriptor that implements __get__() and __set__()
       is called 'data descriptor'
